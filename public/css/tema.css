@@ -1,0 +1,58 @@
+html{
+  font-family: 'Oxygen', sans-serif;
+}
+
+#logo{
+  height: 60px;
+}
+
+nav{
+
+}
+
+#nav-mobile{
+  color: white;
+}
+
+body{
+  background-color: black;
+}
+
+#somos{
+  margin-top: 10cm;
+}
+
+#imgsomos{
+  height: 367px;
+  padding-top: 0.5em;
+}
+footer{
+   margin-top: 10cm;
+ }
+
+#contato{
+  margin-top: 5cm;
+}
+
+#cadfanclub{
+  margin-top: 5cm;
+}
+
+#promofancub{
+  margin-top: 1em;
+}
+
+#vantagens{
+  padding-left: 4cm;
+  font-size: 18px;
+  padding-right:4cm;
+}
+
+#contatos{
+  margin-top: 5cm;
+  height: 300px;
+}
+
+#contrato{
+  font-size: 18px;
+}
